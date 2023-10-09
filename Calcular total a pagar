@@ -1,0 +1,20 @@
+/******************************************************************************
+Calcular total a pagar 
+Autor: Elisa Michelle MV.
+Fecha: 230322
+*******************************************************************************/
+#include <iostream>
+Using namespace STD;
+int main()
+{
+    //Declaración de variables 
+    float artículos, Pagar;
+    Artículos=65.50;
+    
+    //Entrada de datos por teclado y procedimientos 
+  
+    Pagar= 15 * 65.50;
+    cout<< " El total a pagar es " <<Pagar<<endl;
+    
+    return 0;
+}
